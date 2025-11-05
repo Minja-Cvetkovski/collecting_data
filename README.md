@@ -1,3 +1,4 @@
+#README
 # Source of data
 This repository contains a folder called data which contains a data set called religionByCountry.csv which I found on github while looking for public data sets. When I searched 'public data sets' in the search bar I found a repository by Curran Kelleher (curran) called 'data' which contained all sorts of public data sets. This one seemed most convenient to use for this assignment.
 
