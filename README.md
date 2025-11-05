@@ -1,10 +1,10 @@
-#Source of data
+## Source of data
 This repository contains a folder called data which contains a data set called religionByCountry.csv which I found on github while looking for public data sets. When I searched 'public data sets' in the search bar I found a repository by Curran Kelleher (curran) called 'data' which contained all sorts of public data sets. This one seemed most convenient to use for this assignment.
 
-#Description of data
+## Description of data
 This file presents countries alongside the number of people practicing each religion.
 
-#Variables and descriptions
+## Variables and descriptions
 | Variable        | Description                                                      |
 |-----------------|------------------------------------------------------------------|
 | Country         | Name of the country.                                             |
